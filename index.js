@@ -1,7 +1,7 @@
-// Hello World
-const mensagem = "Ola eu";
-{
-  const mensagem = "Hello world";
-  console.log(mensagem);
-}
-console.log(mensagem);
+// Arrays, objetos
+let meta = {
+  value: "ler um livro todo mes",
+  checked: false,
+};
+
+console.log(meta.value);
