@@ -7,7 +7,11 @@
     console.log(info);
   },
 };
+
+meta.value = "nao leio livro kkk";
+meta.log(meta.value);
 */
+/*
 let meta = {
   value: "Ler um livro",
   checked: true
@@ -22,11 +26,9 @@ let metas = [
 ];
 
 console.log(metas[1].value)
+*/
 
 /*
-meta.value = "nao leio livro kkk";
-meta.log(meta.value);
-
 // Arrow function
 const criarMeta = () => {};
 
