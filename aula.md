@@ -43,6 +43,7 @@ Como um lego, voce irá utilizar peças para criar algoritmos, ou seja, para res
 ### Arrays
 
 - [x] Uma lista que contem qualquer tipo de dado
+- [x] Metodos de array: push, find, forEach
 
 ### Objetos
 
