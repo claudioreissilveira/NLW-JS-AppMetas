@@ -59,3 +59,7 @@ Como um lego, voce irá utilizar peças para criar algoritmos, ou seja, para res
 
 - [x] While
 
+# Condicionais
+
+- [x] Switch
+
